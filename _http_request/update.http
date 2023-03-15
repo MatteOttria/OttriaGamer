@@ -1,0 +1,9 @@
+PUT http://localhost/rest/gamers/update.php HTTP/1.1
+content-type: application/json
+
+{
+	"id": ,
+	"nickname": "",
+    "age" ,
+    "level" = ""
+}

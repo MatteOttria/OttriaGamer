@@ -1,0 +1,1 @@
+GET http://localhost/rest/gamers/read.php HTTP/1.1
